@@ -40,16 +40,6 @@ Built with **React** (frontend) and **Flask** (backend), this project showcases 
 
 ---
 
-## 📁 Project Structure
-
-final-project/ ├── backend/ │ ├── app.py # Flask API entry point │ ├── data_collector.py # CPU usage collection │ ├── predictor.py # Random Forest prediction logic │ ├── cpu_usage.db # SQLite database │ ├── *.joblib # Saved model and scaler │ └── requirements.txt ├── frontend/ │ ├── public/ │ └── src/ │ ├── components/ │ └── App.js, index.js, etc. ├── output screenshot.png └── README.md
-
-yaml
-Copy
-Edit
-
----
-
 ## ⚙️ Getting Started
 
 ### 🔧 Backend (Flask API)
